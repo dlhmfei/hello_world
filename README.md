@@ -1,2 +1,4 @@
 # hello_world
-just another repository
+
+hi humans!
+I like flying in the sky,i need to learn c++.
